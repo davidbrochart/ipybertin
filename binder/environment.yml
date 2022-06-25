@@ -1,0 +1,6 @@
+name: ipybertin
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - ipybertin==0.1.0

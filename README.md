@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidbrochart/ipybertin/main?urlpath=lab%2Ftree%2Fexamples%2Fchoropleth.ipynb)
 
 # ipybertin
 
