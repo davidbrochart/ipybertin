@@ -6,7 +6,7 @@
 [![codecov](https://codecov.io/gh/davidbrochart/ipybertin/branch/master/graph/badge.svg)](https://codecov.io/gh/davidbrochart/ipybertin)
 
 
-A Jupyter - Bertin.js bridge
+A Jupyter - [Bertin](https://github.com/neocarto/bertin) bridge
 
 ## Installation
 
